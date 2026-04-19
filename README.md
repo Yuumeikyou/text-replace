@@ -1,4 +1,12 @@
 # text-replace
-this script basically does the replace function on .txt files.
-it gets two strings from user input in dialog window and then opens window for user to choose the original .txt file
-and then opens second window to choose path where new file with replaced words will be saved
+This script basically does the replace function on .txt files, which replaces all occurences of selected string in selected file with second selected string.
+For example, if you have text file which contains text:
+```
+i love frogs
+```
+You can use replace function to replace word "love" for "hate" and now you hate frogs wtf bro D:
+Script opens a dialog window which gets two strings from user input, first string is original word/sentence which you want to replace in file and second one is the new word,
+which will replace all occurences of the selected string in text file.
+Text file selection appears after green button press, it opens a window for user to choose the original .txt file
+and then opens a second window to choose path where new file with replaced words will be saved.
+Output is saved in new file created by user, or overwrites the old one if selected by user.
