@@ -18,7 +18,7 @@ Arch Linux
 ```
 sudo pacman -S tk
 ```
-Ubuntu/Debian/Mint
+Ubuntu / Debian / Mint
 ```
 sudo apt update
 sudo apt install python3.14-tk
