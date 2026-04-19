@@ -5,6 +5,7 @@ For example, if you have text file which contains text:
 i love frogs
 ```
 You can use replace function to replace word "love" for "hate" and now you hate frogs wtf bro D:
+
 Script opens a dialog window which gets two strings from user input, first string is original word/sentence which you want to replace in file and second one is the new word,
 which will replace all occurences of the selected string in text file.
 Text file selection appears after green button press, it opens a window for user to choose the original .txt file
