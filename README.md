@@ -1,5 +1,5 @@
 # text-replace
-This script basically does the replace function on .txt files, which replaces all occurences of selected string in selected file with second selected string.
+This script basically does the replace function on .txt files, which replaces all occurences of selected string from file with second selected string.
 For example, if you have text file which contains text:
 ```
 i love frogs
